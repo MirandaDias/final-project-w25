@@ -135,6 +135,26 @@ nav ul{
     border-radius: 2%;
 }
 
+.ride{
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.beast{
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.monsta{
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.ride{
+    grid-column: 2;
+    grid-row: 2;
+}
+
 footer{
     background-color: #000;
     color: #fff;
