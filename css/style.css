@@ -45,3 +45,33 @@ nav ul{
     display: flex;
     gap: 40px;
 }
+
+#sweethearts{
+    padding: 2em;
+}
+
+.flavours{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1em;
+    margin-bottom: 1em;
+}
+.flavours img:nth-child(1){
+    grid-column: 1/span 3;
+    grid-row: 1;
+}
+
+.flavours img:nth-child(2){
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.flavours img:nth-child(3){
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.flavours img:nth-child(4){
+    grid-column: 3;
+    grid-row: 2;
+}
