@@ -90,3 +90,19 @@ nav ul{
     border: 2px;
     border-radius: 4px;
 }
+
+#story{
+    padding: 2em;
+    background-color: #f8fafc;
+}
+
+#story h2{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.storytxt{
+    display: flex;
+    flex-direction: column;
+}
+
