@@ -106,3 +106,19 @@ nav ul{
     flex-direction: column;
 }
 
+#reviews{
+    padding: 2em;
+    background-color:#000;
+    color: #fff;
+}
+
+#reviews h2{
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.blockquotes{
+    display: flex;
+    flex-direction: column;
+}
+
