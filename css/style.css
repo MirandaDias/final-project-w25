@@ -195,3 +195,13 @@ footer{
         grid-column: 2;
         grid-row: 2;
     }
+
+    .storytxt{
+        flex-direction: row;
+        gap: 2em;
+    }
+
+    .blockquotes{
+        flex-direction: row;
+        gap: 1em;
+    }
