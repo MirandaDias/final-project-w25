@@ -122,3 +122,16 @@ nav ul{
     flex-direction: column;
 }
 
+.otherflavours{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 1em;
+    padding: 2em 1em;
+}
+
+.ride, .beast, .monsta, .smore{
+    background-color: #f8fafc;
+    text-align: center;
+    border-radius: 2%;
+}
+
