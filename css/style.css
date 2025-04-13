@@ -23,6 +23,11 @@ h3{
     font-size: 1.266rem;
 }
 
+img{
+    width: 100%;
+    border-radius: 4%;
+}
+
 header .wrapper{
     display: flex;
     justify-content: space-between;
@@ -56,6 +61,7 @@ nav ul{
     gap: 1em;
     margin-bottom: 1em;
 }
+
 .flavours img:nth-child(1){
     grid-column: 1/span 3;
     grid-row: 1;
