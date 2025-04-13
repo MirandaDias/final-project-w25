@@ -6,3 +6,20 @@ body{
     font-family: "poppins", sans-serif;
 }
 
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 2.027rem;
+}
+
+h2{
+    font-size: 1.802rem;
+}
+
+h3{
+    font-size: 1.266rem;
+}
+
