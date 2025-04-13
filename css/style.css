@@ -205,3 +205,30 @@ footer{
         flex-direction: row;
         gap: 1em;
     }
+
+    .otherflavours{
+        grid-template-columns: repeat(4,1fr);
+        gap: 1em;
+        padding: 2em 1em;
+    }
+
+    .ride{
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+    .beast{
+        grid-column: 2;
+        grid-row: 1;
+    }
+    
+    .monsta{
+        grid-column: 3;
+        grid-row: 1;
+    }
+    
+    .smore{
+        grid-column: 4;
+        grid-row: 1;
+    }
+}
