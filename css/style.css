@@ -42,7 +42,7 @@ header img{
 
 nav a{
     text-decoration: none;
-    color:#000;
+    color:#222;
     font-size: 1.5rem;
 }
 
@@ -54,6 +54,7 @@ nav ul{
 
 #sweethearts .wrapper{
     padding: 2em;
+    color: #222;
 }
 
 .flavours{
@@ -95,6 +96,7 @@ nav ul{
 #story .wrapper{
     padding: 2em;
     background-color: #f8fafc;
+    color: #222;
 }
 
 #story h2{
@@ -125,6 +127,7 @@ nav ul{
 }
 
 #tryit .wrapper{
+    color: #222;
     padding: 2em;
 }
 
